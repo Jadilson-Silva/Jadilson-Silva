@@ -34,8 +34,7 @@ Sou um desenvolvedor web com experiência sólida em <strong>PHP</strong>, <stro
 
 <h2 align="center">Meus projetos</h2>
 <ul align="left">
-  <li><a href="">Projeto</a></li>
-  <li><a href="">App React</a></li>  
+  <li><a href="https://github.com/Jadilson-Silva/lista-tarefas-react">Lista de Tarefas (React + TypeScript + Tailwind CSS)</a></li>  
 </ul>
 
 ---
